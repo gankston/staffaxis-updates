@@ -1,7 +1,7 @@
 {
   "versionCode": 6,
-  "versionName": "1.5-test",
-  "apkUrl": "https://gankston.github.io/staffaxis-updates/staffaxis 1.5",
+  "versionName": "1.6,
+  "apkUrl": "https://gankston.github.io/staffaxis-updates/staffaxis 1.6",
   "mandatory": false,
-  "notes": "Prueba del sistema de actualización."
+  "notes": "Nuevas mejoras y cambios importantes"
 }
