@@ -1,7 +1,7 @@
 {
-  "versionCode": 10,
-  "versionName": "1.7.3",
-  "apkUrl": "https://raw.githubusercontent.com/gankston/staffaxis-updates/main/StaffAxis_v1.7.3.apk",
+  "versionCode": 11,
+  "versionName": "1.7.4",
+  "apkUrl": "https://raw.githubusercontent.com/gankston/staffaxis-updates/main/StaffAxis_v1.7.4.apk",
   "mandatory": false,
   "notes": "Nuevas mejoras y cambios importantes"
 }
