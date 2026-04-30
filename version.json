@@ -1,7 +1,7 @@
 {
-  "versionCode": 30,
-  "versionName": "2.1.0",
-  "apkUrl": "https://raw.githubusercontent.com/gankston/staffaxis-updates/main/StaffAxis_v2.2.0.apk",
+  "versionCode": 37,
+  "versionName": "2.2.7",
+  "apkUrl": "https://raw.githubusercontent.com/gankston/staffaxis-updates/main/StaffAxis_v2.2.7.apk",
   "mandatory": false,
-  "notes": "Nuevas mejoras y cambios importantes"
+  "notes": "Arreglados bugs menores y problemas de sincronizacion con la aplicacion de escritorio"
 }
