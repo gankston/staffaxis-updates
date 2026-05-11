@@ -1,7 +1,7 @@
 {
-  "versionCode": 44,
-  "versionName": "3.0.4",
-  "apkUrl": "https://raw.githubusercontent.com/gankston/staffaxis-updates/main/StaffAxis-v3.0.4.apk",
+  "versionCode": 46,
+  "versionName": "3.0.6",
+  "apkUrl": "https://raw.githubusercontent.com/gankston/staffaxis-updates/main/StaffAxis-v3.0.6.apk",
   "mandatory": false,
-  "notes": "Arreglados bugs menores y problemas de sincronizacion con la aplicacion de escritorio"
+  "notes": "Historial de horas por empleado, apellido primero en tarjetas, mejoras generales"
 }
