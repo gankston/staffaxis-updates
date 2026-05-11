@@ -1,7 +1,7 @@
 {
-  "versionCode": 40,
-  "versionName": "3.0.0",
-  "apkUrl": "https://raw.githubusercontent.com/gankston/staffaxis-updates/main/StaffAxis-v3.0.0.apk",
+  "versionCode": 44,
+  "versionName": "3.0.4",
+  "apkUrl": "https://raw.githubusercontent.com/gankston/staffaxis-updates/main/StaffAxis-v3.0.4.apk",
   "mandatory": false,
   "notes": "Arreglados bugs menores y problemas de sincronizacion con la aplicacion de escritorio"
 }
