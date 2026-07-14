@@ -1,1 +1,1 @@
-{"apkUrl":"https://raw.githubusercontent.com/gankston/staffaxis-updates/main/StaffAxis-v3.1.0.apk","mandatory":false,"versionCode":50,"versionName":"3.1.0","notes":"Fix actualizacion automatica, fix edicion apellido, reactivar empleado oculto, resumen cosecha y monto en tarja"}
+{"versionCode":53,"versionName":"3.3.0","apkUrl":"https://github.com/gankston/staffaxis-updates/releases/download/v3.3.0/StaffAxis-v3.3.0.apk","mandatory":false,"notes":"Visualizador de horas actualizado, bloqueo de emuladores ampliado (BlueStacks 5+, MuMu 12, GameLoop, WSA)"}
