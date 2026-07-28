@@ -1,1 +1,1 @@
-{"versionCode":60,"versionName":"3.4.1","apkUrl":"https://raw.githubusercontent.com/gankston/staffaxis-updates/main/StaffAxis-v3.4.1.apk","mandatory":true,"notes":"Fix critico: el actualizador podia instalar un archivo viejo en vez del recien descargado"}
+{"versionCode":61,"versionName":"3.4.2","apkUrl":"https://raw.githubusercontent.com/gankston/staffaxis-updates/main/StaffAxis-v3.4.2.apk","mandatory":true,"notes":"Fix del instalador de actualizaciones"}
