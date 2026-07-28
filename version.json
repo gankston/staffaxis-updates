@@ -1,1 +1,1 @@
-{"versionCode":59,"versionName":"3.4.0","apkUrl":"https://raw.githubusercontent.com/gankston/staffaxis-updates/main/StaffAxis-v3.4.0.apk","mandatory":false,"notes":"Bloqueo de carga sin DNI, nuevos campos Cajas y Cajones, mejoras de visualizacion"}
+{"versionCode":60,"versionName":"3.4.1","apkUrl":"https://raw.githubusercontent.com/gankston/staffaxis-updates/main/StaffAxis-v3.4.1.apk","mandatory":true,"notes":"Fix critico: el actualizador podia instalar un archivo viejo en vez del recien descargado"}
